@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Ali Hamza
+# 👋 Hello, I'm Alee Hamza
 
 I'm a passionate AI Engineer currently working at [NASTP](https://nastp.gov.pk/alpha) (National Aerospace Science & Technology Park), Islamabad, Pakistan, in the Modeling & Simulation Department. I hold a Bachelor's degree in Information Technology from MNS University of Agriculture, Multan.
 
