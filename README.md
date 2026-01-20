@@ -31,7 +31,7 @@ Currently, I work as a **Senior Full Stack Developer at GHL Techy**, developing 
 - Predictive analytics and anomaly detection  
 
 ### Research Associate (AI & IoT) – MNS University of Agriculture  
-**Jan 2023 – Present**
+**Jan 2023 – Dec 2024**
 - AI-based pest detection systems  
 - IoT hardware and deep learning pipelines  
 
@@ -144,7 +144,7 @@ Scraped 4000+ books using Python automation
 
 ---
 
-# 🛠️ Skills (Compact Grid)
+# 🛠️ Skills
 
 | **Development** | **AI / ML** | **Automation** | **Data & Systems** |
 |-----------------|-------------|----------------|--------------------|
@@ -166,6 +166,47 @@ Scraped 4000+ books using Python automation
 | OpenCV | Predictive Modeling | Arduino IDE | Problem Solving |
 | LLMs | Data Analytics | Sensors & Microcontrollers | Pattern Recognition |
 | Generative AI | Data Annotation | Image Processing | Research |
+
+## 🛠️ Skills & Tools
+
+### Development
+![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![API](https://img.shields.io/badge/API_Development-000000?style=for-the-badge&logo=api&logoColor=white)
+![SaaS](https://img.shields.io/badge/SaaS_Development-FF6F00?style=for-the-badge&logo=icloud&logoColor=white)
+![Chrome](https://img.shields.io/badge/Chrome_Extensions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![ManifestV3](https://img.shields.io/badge/Manifest_V3-20232A?style=for-the-badge&logo=googlechrome&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### AI & Machine Learning
+![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge)
+![MachineLearning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
+![DeepLearning](https://img.shields.io/badge/Deep_Learning-764ABC?style=for-the-badge)
+![ComputerVision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge)
+![NeuralNetworks](https://img.shields.io/badge/Neural_Networks-FF9A00?style=for-the-badge)
+![RNN](https://img.shields.io/badge/RNN-FF6F00?style=for-the-badge)
+![CNN](https://img.shields.io/badge/CNN-FF4B4B?style=for-the-badge)
+![GANs](https://img.shields.io/badge/GANs-00C853?style=for-the-badge)
+
+### Automation & Integrations
+![GHL](https://img.shields.io/badge/GHL_API-0085FF?style=for-the-badge)
+![Stripe](https://img.shields.io/badge/Stripe_API-626CD9?style=for-the-badge&logo=stripe&logoColor=white)
+![CRM](https://img.shields.io/badge/CRM_Integration-0A66C2?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-AF50E6?style=for-the-badge)
+![Make](https://img.shields.io/badge/Make.com-6D28D9?style=for-the-badge)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+
+### Data & Systems
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 
 ---
 
