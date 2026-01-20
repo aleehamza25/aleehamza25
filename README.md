@@ -1,81 +1,229 @@
 # 👋 Hello, I'm Alee Hamza
 
-I'm a passionate AI Engineer currently working at [NASTP](https://nastp.gov.pk/alpha) (National Aerospace Science & Technology Park), Islamabad, Pakistan, in the Modeling & Simulation Department. I hold a Bachelor's degree in Information Technology from MNS University of Agriculture, Multan.
+I am a Full Stack AI Engineer and Automation Developer specializing in SaaS platforms, API integrations, Chrome extensions, and AI-powered applications. I build scalable systems that automate business workflows and solve real-world problems.
 
-With a strong background in Deep Learning, Computer Vision, and IoT, I specialize in building intelligent systems for real-world problems. From pest surveillance using AI-powered IoT devices to legal case analysis using GPT APIs, I love working at the intersection of AI and practical applications.
-
----
-
-## 👨‍💻 What I Do
-
-- 🔬 AI Engineer @ [NASTP](https://nastp.gov.pk/alpha): Specializing in image segmentation, object detection, anomaly detection, and API development.
-- 🧠 Former Research Assistant (AI & IoT) @ [MNSUAM](https://mnsuam.edu.pk): Built deep learning pipelines for insect recognition and smart agricultural surveillance.
-- ✍️ Technical AI Writer @ [Technolynx](https://www.technolynx.com/): Wrote SEO-optimized blogs on AI trends and tools.
-- 👨‍🏫 Visiting Lecturer @ Beaconhouse: Taught Python and Computer Science to O Level students.
+Currently, I work as a **Senior Full Stack Developer at GHL Techy**, creating first-to-market solutions for the GoHighLevel ecosystem, while also contributing to AI and Computer Vision research.
 
 ---
 
-## 📂 Featured Projects
+## 👨‍💻 Professional Roles
 
-- **[GPT Lawyer (2024)]**  
-  A Django REST API-based web app that uses GPT-3.5 to analyze legal cases and provide relevant articles.  
-  ➤ NLP, PostgreSQL, GPT Integration
-
-- **[SmartRaps (2023-24)]**  
-  AI + IoT pest surveillance device for smart farming. Detects insect populations using deep learning models.  
-  ➤ Watch Demo: [YouTube](https://www.youtube.com/watch?v=gcUg7IDyWoI)
-
-- **[Flower Recognition (2021)]**  
-  A Faster R-CNN-based model deployed on Django to identify flower species.  
-  ➤ Object Detection, Inception V2
-
-- **[Book Scraper (2021)]**  
-  Scraped 4000+ books from WorldCat using BeautifulSoup and published an online digital library.  
-  ➤ Python, Web Scraping, Data Curation
+- 🚀 Senior Full Stack Developer @ **GHL Techy**
+- 🤖 AI Engineer @ **National Aerospace Science & Technology Park (NASTP)**
+- 🔬 Research Associate (AI & IoT) @ **MNS University of Agriculture, Multan**
+- 👨‍🏫 Technical Trainer @ **NAVTTC**
+- 🧩 Chrome Extension Developer  
+- 🌐 API Integration Specialist  
 
 ---
 
-## 📜 Publications
+# 💼 Experience
 
-- **2025** - *Yolo-Pest: Optimized YOLOv8 for Insect Detection*, Accepted in Nature Scientific Reports (https://www.nature.com/articles/s41598-025-97825-3)
-- **2025** - *Multispectral Approach for Wheat Yield Estimation Using Deep Learning*, Journal of Computing & Biomedical Informatics (https://www.jcbi.org/index.php/Main/article/view/793)
-- **2024** - *Comparison of Object Detection Models for Multi-Pest Detection*, Under Review  
-- **2024** - *IoT-based Real-Time Pest Surveillance System Architecture*, Submitted
+### Senior Full Stack Developer – GHL Techy  
+**May 2025 – Present**
 
----
-
-## 🎓 Certifications
-
-- [Deep Learning Specialization - DeepLearning.AI (2023)](https://coursera.org/share/4a8f154e197cde9ea2480bf288ed4dff)  
-- [Intro to Deep Learning - HSE (2021)](https://www.coursera.org/account/accomplishments/verify/SKVHY5UU5HNC)  
-- [Python Projects - Udemy (2021)](https://www.udemy.com/certificate/UC-a324d556-f23b-49e6-8b54-b85a3b5bd25d/)
+- Developed SaaS tools for GoHighLevel ecosystem  
+- Built Chrome extensions and automation platforms  
+- Designed scalable APIs and integrations  
 
 ---
 
-## 🛠️ Tech Stack & Tools
+### AI Engineer – National Aerospace Science & Technology Park (NASTP)  
+**Feb 2025 – Apr 2025**
 
-**Languages & Frameworks:**  
-`Python` `JavaScript` `Django` `DRF` `Flask` `HTML` `CSS` `C++` `SQL` `Arduino`  
-
-**AI & ML Tools:**  
-`PyTorch` `TensorFlow` `Keras` `OpenCV` `YOLO` `Scikit-learn` `LLMs` `GPT-3` `Numpy` `Pandas` `Matplotlib`  
-
-**Dev & Deployment:**  
-`Git` `GitHub` `Linux` `PostgreSQL` `MongoDB` `BeautifulSoup` `Selenium` `Docker` `Jupyter Notebook`
-
-**Design & Docs:**  
-`Figma` `Canva` `MS Office Suite`
+- Developed AI-based computer vision systems  
+- Worked on anomaly detection and predictive models  
 
 ---
 
-## ✨ About Me
+### Research Associate (AI & IoT) – MNS University of Agriculture  
+**Jan 2023 – Present**
 
-I'm a passionate coder and writer who loves solving real-world problems using AI, deep learning, and computer vision. Whether it’s conducting experiments, writing research papers, building APIs, or scraping web data, I enjoy combining creativity with logic to build meaningful solutions.
+- Built deep learning pipelines for pest detection  
+- Worked on IoT surveillance systems  
+- Dataset annotation and model training  
 
 ---
 
-## 🤝 Let's Connect
+### **Technical Trainer – NAVTTC**  
+**April 2025 – May 2025 (2 months)**
 
-- 📧 Email: [aleehamza25@gmail.com](mailto:aleehamza25@gmail.com)
-- 🔗 LinkedIn: [aleehamza25](https://www.linkedin.com/in/aleehamza25/)
-- 🧠 GitHub: [@aleehamza25](https://github.com/aleehamza25)
+- Trained students in modern programming and AI fundamentals  
+- Conducted hands-on sessions on Python, APIs, and automation  
+- Guided learners in real-world project development  
+
+---
+
+### Visiting Lecturer – Beaconhouse  
+**Aug 2023 – Apr 2024**
+
+- Taught Python and Computer Science  
+- Mentored students in programming and problem-solving  
+
+---
+
+# 🚀 SaaS & Automation Projects
+
+### 🔐 Funnel Guard  
+**Dec 2025 – Jan 2026 | GHL Techy**
+
+Protection script that blocks funnel cloning tools.
+
+**Live Link:**  
+https://funnelguard.ghltechy.com/
+
+---
+
+### 💬 GOWA – GoHighLevel WhatsApp Integration  
+**Oct 2025 – Jan 2026 | GHL Techy**
+
+WhatsApp API integration for GoHighLevel with chatbots and automation.
+
+**Live Links:**  
+https://gowa.app  
+https://gowa.ghltechy.com
+
+---
+
+### 🧩 GHL Cloner – Chrome Extension  
+**Sep 2025 – Oct 2025 | GHL Techy**
+
+Chrome extension for cloning funnels across GHL accounts.
+
+**Chrome Store:**  
+https://chromewebstore.google.com/detail/klfhopbnbenokjgddhlonjcmalmpmpeg
+
+---
+
+### ♿ Ace Widget  
+**Jul 2025 – Aug 2025 | GHL Techy**
+
+Accessibility tool for WCAG 2.1 compliance.
+
+**Link:**  
+https://acewidget.vezzur.com/
+
+---
+
+# 📜 Publications
+
+- **Yolo-Pest: Optimized YOLOv8 for Insect Detection**  
+  https://www.nature.com/articles/s41598-025-97825-3
+
+- **Multispectral Approach for Wheat Yield Estimation Using Deep Learning**  
+  https://www.jcbi.org/index.php/Main/article/view/793
+
+---
+
+# 🎓 Certifications
+
+- **Deep Learning Specialization – DeepLearning.AI**  
+  https://coursera.org/share/4a8f154e197cde9ea2480bf288ed4dff  
+
+- **Introduction to Deep Learning – HSE**  
+  https://www.coursera.org/account/accomplishments/verify/SKVHY5UU5HNC  
+
+- **Python Learn by Projects – Udemy**  
+  https://www.udemy.com/certificate/UC-a324d556-f23b-49e6-8b54-b85a3b5bd25d/
+
+---
+
+# 🛠️ Technical Skills
+
+### Core Development
+`React.js`  
+`Node.js`  
+`API Development`  
+`SaaS Development`  
+`Chrome Extensions`  
+`manifest v3`  
+`Stripe API`  
+`GHL API`  
+`CRM Integration`
+
+---
+
+### Automation & Integration
+`n8n`  
+`Make.com`  
+`Zapier`  
+`Redis`  
+`Vercel`  
+`DigitalOcean`
+
+---
+
+### Databases & DevOps
+`PostgreSQL`  
+`Docker`  
+`SQL`
+
+---
+
+### AI & Machine Learning
+`Artificial Intelligence (AI)`  
+`Machine Learning`  
+`Deep Learning`  
+`Computer Vision`  
+`Neural Networks`  
+`Large Language Models (LLM)`  
+`Generative AI`  
+`Retrieval-Augmented Generation (RAG)`  
+`Recurrent Neural Networks (RNN)`  
+`Convolutional Neural Networks (CNN)`  
+`Generative Adversarial Networks (GANs)`  
+`PyTorch`  
+`TensorFlow`  
+`Keras`  
+`YOLO`  
+`OpenCV`
+
+---
+
+### Data Science & Analytics
+`Data Science`  
+`Predictive Modeling`  
+`Data Analytics`  
+`Data Visualization`  
+`Pandas`  
+`NumPy`  
+`Matplotlib`  
+`Algorithm Optimization`  
+`Data Annotation`
+
+---
+
+### Programming & Systems
+`Python`  
+`C++`  
+`Object-Oriented Programming (OOP)`  
+`Algorithms`  
+`Embedded C`  
+`Embedded C++`  
+`ESP32 Microcontrollers`  
+`Arduino IDE`  
+`PCB Design`  
+`Internet of Things (IoT)`
+
+---
+
+### Mathematics & Research
+`Mathematics`  
+`Statistics`  
+`Pattern Recognition`  
+`Image Processing`  
+`Image Segmentation`  
+`Vectorization`
+
+---
+
+# 🤝 Connect With Me
+
+- 📧 Email: mailto:aleehamza25@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/aleehamza25  
+- 🧠 GitHub: https://github.com/aleehamza25  
+- 📞 Phone: +92 3056117120  
+
+---
+
+⭐ *I build AI-powered SaaS products that automate businesses and make technology practical.*
