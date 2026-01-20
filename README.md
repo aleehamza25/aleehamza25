@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Alee Hamza
 
-I am a Full Stack AI Engineer and Automation Developer specializing in SaaS platforms, API integrations, Chrome extensions, and AI-powered applications. I build scalable systems that automate business workflows and solve real-world problems.
+I am a Full Stack AI Engineer and Automation Developer specializing in SaaS platforms, Chrome extensions, and AI-powered integrations. I build scalable systems that automate workflows, integrate CRMs, and solve real-world problems using AI and automation.
 
-Currently, I work as a **Senior Full Stack Developer at GHL Techy**, creating first-to-market solutions for the GoHighLevel ecosystem, while also contributing to AI and Computer Vision research.
+Currently, I work as a **Senior Full Stack Developer at GHL Techy**, developing first-to-market tools for the GoHighLevel ecosystem, while also contributing to AI and Computer Vision research projects.
 
 ---
 
@@ -21,44 +21,28 @@ Currently, I work as a **Senior Full Stack Developer at GHL Techy**, creating fi
 
 ### Senior Full Stack Developer – GHL Techy  
 **May 2025 – Present**
+- Building SaaS tools for GoHighLevel ecosystem  
+- Developing Chrome extensions and integrations  
+- Creating scalable APIs and automation platforms  
 
-- Developed SaaS tools for GoHighLevel ecosystem  
-- Built Chrome extensions and automation platforms  
-- Designed scalable APIs and integrations  
-
----
-
-### AI Engineer – National Aerospace Science & Technology Park (NASTP)  
+### AI Engineer – National Aerospace Science & Technology Park  
 **Feb 2025 – Apr 2025**
-
-- Developed AI-based computer vision systems  
-- Worked on anomaly detection and predictive models  
-
----
+- Computer vision model development  
+- Predictive analytics and anomaly detection  
 
 ### Research Associate (AI & IoT) – MNS University of Agriculture  
 **Jan 2023 – Present**
-
-- Built deep learning pipelines for pest detection  
-- Worked on IoT surveillance systems  
-- Dataset annotation and model training  
-
----
+- AI-based pest detection systems  
+- IoT hardware and deep learning pipelines  
 
 ### **Technical Trainer – NAVTTC**  
 **April 2025 – May 2025 (2 months)**
-
-- Trained students in modern programming and AI fundamentals  
-- Conducted hands-on sessions on Python, APIs, and automation  
-- Guided learners in real-world project development  
-
----
+- Trained students in Python, APIs, and AI  
+- Conducted hands-on programming workshops  
 
 ### Visiting Lecturer – Beaconhouse  
 **Aug 2023 – Apr 2024**
-
-- Taught Python and Computer Science  
-- Mentored students in programming and problem-solving  
+- Taught Python and CS fundamentals  
 
 ---
 
@@ -67,7 +51,7 @@ Currently, I work as a **Senior Full Stack Developer at GHL Techy**, creating fi
 ### 🔐 Funnel Guard  
 **Dec 2025 – Jan 2026 | GHL Techy**
 
-Protection script that blocks funnel cloning tools.
+Funnel protection script that blocks cloning tools and source extraction.
 
 **Live Link:**  
 https://funnelguard.ghltechy.com/
@@ -77,9 +61,9 @@ https://funnelguard.ghltechy.com/
 ### 💬 GOWA – GoHighLevel WhatsApp Integration  
 **Oct 2025 – Jan 2026 | GHL Techy**
 
-WhatsApp API integration for GoHighLevel with chatbots and automation.
+WhatsApp API platform integrated directly into GHL.
 
-**Live Links:**  
+**Links:**  
 https://gowa.app  
 https://gowa.ghltechy.com
 
@@ -88,7 +72,7 @@ https://gowa.ghltechy.com
 ### 🧩 GHL Cloner – Chrome Extension  
 **Sep 2025 – Oct 2025 | GHL Techy**
 
-Chrome extension for cloning funnels across GHL accounts.
+Tool to clone funnels and workflows across GHL accounts.
 
 **Chrome Store:**  
 https://chromewebstore.google.com/detail/klfhopbnbenokjgddhlonjcmalmpmpeg
@@ -98,10 +82,42 @@ https://chromewebstore.google.com/detail/klfhopbnbenokjgddhlonjcmalmpmpeg
 ### ♿ Ace Widget  
 **Jul 2025 – Aug 2025 | GHL Techy**
 
-Accessibility tool for WCAG 2.1 compliance.
+WCAG 2.1 accessibility tool for GoHighLevel funnels.
 
 **Link:**  
 https://acewidget.vezzur.com/
+
+---
+
+### ⚙️ Funnel Manager  
+**Jun 2025 – Jul 2025 | GHL Techy**
+
+Automation management platform for GHL agencies.
+
+---
+
+# 🧠 AI & Academic Projects
+
+### GPT Lawyer (2024)
+AI-powered legal assistant using GPT APIs  
+**Tech:** Django REST Framework, NLP, PostgreSQL  
+
+---
+
+### SmartRaps – AI IoT Pest Surveillance  
+AI + IoT system for insect monitoring  
+**Demo:**  
+https://www.youtube.com/watch?v=gcUg7IDyWoI
+
+---
+
+### Flower Recognition System  
+Object detection with Faster R-CNN deployed on Django  
+
+---
+
+### Book Scraper  
+Scraped 4000+ books using Python automation  
 
 ---
 
@@ -128,92 +144,28 @@ https://acewidget.vezzur.com/
 
 ---
 
-# 🛠️ Technical Skills
+# 🛠️ Skills (Compact Grid)
 
-### Core Development
-`React.js`  
-`Node.js`  
-`API Development`  
-`SaaS Development`  
-`Chrome Extensions`  
-`manifest v3`  
-`Stripe API`  
-`GHL API`  
-`CRM Integration`
+| **Development** | **AI / ML** | **Automation** | **Data & Systems** |
+|-----------------|-------------|----------------|--------------------|
+| React.js | Artificial Intelligence | GHL API | PostgreSQL |
+| Node.js | Machine Learning | Stripe API | SQL |
+| API Development | Deep Learning | CRM Integration | Docker |
+| SaaS Development | Computer Vision | n8n | Redis |
+| Chrome Extensions | Neural Networks | Make.com | DigitalOcean |
+| Manifest v3 | RNN | Zapier | Vercel |
+| Django REST | CNN | RAG | Linux |
+| C++ | GANs | Webhooks | Git |
 
----
-
-### Automation & Integration
-`n8n`  
-`Make.com`  
-`Zapier`  
-`Redis`  
-`Vercel`  
-`DigitalOcean`
-
----
-
-### Databases & DevOps
-`PostgreSQL`  
-`Docker`  
-`SQL`
-
----
-
-### AI & Machine Learning
-`Artificial Intelligence (AI)`  
-`Machine Learning`  
-`Deep Learning`  
-`Computer Vision`  
-`Neural Networks`  
-`Large Language Models (LLM)`  
-`Generative AI`  
-`Retrieval-Augmented Generation (RAG)`  
-`Recurrent Neural Networks (RNN)`  
-`Convolutional Neural Networks (CNN)`  
-`Generative Adversarial Networks (GANs)`  
-`PyTorch`  
-`TensorFlow`  
-`Keras`  
-`YOLO`  
-`OpenCV`
-
----
-
-### Data Science & Analytics
-`Data Science`  
-`Predictive Modeling`  
-`Data Analytics`  
-`Data Visualization`  
-`Pandas`  
-`NumPy`  
-`Matplotlib`  
-`Algorithm Optimization`  
-`Data Annotation`
-
----
-
-### Programming & Systems
-`Python`  
-`C++`  
-`Object-Oriented Programming (OOP)`  
-`Algorithms`  
-`Embedded C`  
-`Embedded C++`  
-`ESP32 Microcontrollers`  
-`Arduino IDE`  
-`PCB Design`  
-`Internet of Things (IoT)`
-
----
-
-### Mathematics & Research
-`Mathematics`  
-`Statistics`  
-`Pattern Recognition`  
-`Image Processing`  
-`Image Segmentation`  
-`Vectorization`
+| **AI Tools** | **Data Science** | **IoT & Embedded** | **Core CS** |
+|--------------|-----------------|-------------------|-------------|
+| PyTorch | Pandas | IoT | Algorithms |
+| TensorFlow | NumPy | ESP32 | OOP |
+| Keras | Matplotlib | Embedded C++ | Mathematics |
+| YOLO | Data Visualization | PCB Design | Statistics |
+| OpenCV | Predictive Modeling | Arduino IDE | Problem Solving |
+| LLMs | Data Analytics | Sensors & Microcontrollers | Pattern Recognition |
+| Generative AI | Data Annotation | Image Processing | Research |
 
 ---
 
@@ -226,4 +178,4 @@ https://acewidget.vezzur.com/
 
 ---
 
-⭐ *I build AI-powered SaaS products that automate businesses and make technology practical.*
+⭐ *Building AI-powered SaaS solutions that automate businesses and solve real problems.*
