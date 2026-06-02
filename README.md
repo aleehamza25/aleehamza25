@@ -2,7 +2,7 @@
 
 I am a Full Stack AI Engineer and Automation Developer specializing in SaaS platforms, Chrome extensions, and AI-powered integrations. I build scalable systems that automate workflows, integrate CRMs, and solve real-world problems using AI and automation.
 
-Currently, I work as a **Senior Full Stack Developer at GHL Techy**, developing first-to-market tools for the GoHighLevel ecosystem, while also contributing to AI and Computer Vision research projects.
+Currently, I work as a **Senior Full Stack Developer at GHL Agencify**, developing first-to-market tools for the GoHighLevel ecosystem, while also contributing to AI and Computer Vision research projects.
 
 ---
 
@@ -19,7 +19,7 @@ Currently, I work as a **Senior Full Stack Developer at GHL Techy**, developing 
 
 # 💼 Experience
 
-### Senior Full Stack Developer – GHL Techy  
+### Senior Full Stack Developer – GHL Agencify  
 **May 2025 – Present**
 - Building SaaS tools for GoHighLevel ecosystem  
 - Developing Chrome extensions and integrations  
@@ -49,28 +49,27 @@ Currently, I work as a **Senior Full Stack Developer at GHL Techy**, developing 
 # 🚀 SaaS & Automation Projects
 
 ### 🔐 Funnel Guard  
-**Dec 2025 – Jan 2026 | GHL Techy**
+**Dec 2025 – Jan 2026 | GHL Agencify**
 
 Funnel protection script that blocks cloning tools and source extraction.
 
 **Live Link:**  
-https://funnelguard.ghltechy.com/
+https://funnelguard.ghlAgencify.com/
 
 ---
 
 ### 💬 GOWA – GoHighLevel WhatsApp Integration  
-**Oct 2025 – Jan 2026 | GHL Techy**
+**Oct 2025 – Jan 2026 | GHL Agencify**
 
 WhatsApp API platform integrated directly into GHL.
 
 **Links:**  
 https://gowa.app  
-https://gowa.ghltechy.com
 
 ---
 
 ### 🧩 GHL Cloner – Chrome Extension  
-**Sep 2025 – Oct 2025 | GHL Techy**
+**Sep 2025 – Oct 2025 | GHL Agencify**
 
 Tool to clone funnels and workflows across GHL accounts.
 
@@ -80,7 +79,7 @@ https://chromewebstore.google.com/detail/klfhopbnbenokjgddhlonjcmalmpmpeg
 ---
 
 ### ♿ Ace Widget  
-**Jul 2025 – Aug 2025 | GHL Techy**
+**Jul 2025 – Aug 2025 | GHL Agencify**
 
 WCAG 2.1 accessibility tool for GoHighLevel funnels.
 
@@ -90,7 +89,7 @@ https://acewidget.vezzur.com/
 ---
 
 ### ⚙️ Funnel Manager  
-**Jun 2025 – Jul 2025 | GHL Techy**
+**Jun 2025 – Jul 2025 | GHL Agencify**
 
 Automation management platform for GHL agencies.
 
@@ -128,6 +127,9 @@ Scraped 4000+ books using Python automation
 
 - **Multispectral Approach for Wheat Yield Estimation Using Deep Learning**  
   https://www.jcbi.org/index.php/Main/article/view/793
+  
+- **Evaluation of YOLOv7-v13 models for multi-class small insect pest detection using the five-pest dataset**  
+  https://www.nature.com/articles/s41598-026-52108-3
 
 ---
 
