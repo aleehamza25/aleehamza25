@@ -8,7 +8,7 @@ Currently, I work as a **Senior Full Stack Developer at GHL Techy**, developing 
 
 ## 👨‍💻 Professional Roles
 
-- 🚀 Senior Full Stack Developer @ **GHL Techy**
+- 🚀 Senior Full Stack Developer @ **GHL Agencify**
 - 🤖 AI Engineer @ **National Aerospace Science & Technology Park (NASTP)**
 - 🔬 Research Associate (AI & IoT) @ **MNS University of Agriculture, Multan**
 - 👨‍🏫 Technical Trainer @ **NAVTTC**
