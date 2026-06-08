@@ -9,7 +9,6 @@ Currently, I work as a **Senior Full Stack Developer at GHL Agencify**, developi
 ## 👨‍💻 Professional Roles
 
 - 🚀 Senior Full Stack Developer @ **GHL Agencify**
-- 🤖 AI Engineer @ **National Aerospace Science & Technology Park (NASTP)**
 - 🔬 Research Associate (AI & IoT) @ **MNS University of Agriculture, Multan**
 - 👨‍🏫 Technical Trainer @ **NAVTTC**
 - 🧩 Chrome Extension Developer  
@@ -24,11 +23,6 @@ Currently, I work as a **Senior Full Stack Developer at GHL Agencify**, developi
 - Building SaaS tools for GoHighLevel ecosystem  
 - Developing Chrome extensions and integrations  
 - Creating scalable APIs and automation platforms  
-
-### AI Engineer – National Aerospace Science & Technology Park  
-**Feb 2025 – Apr 2025**
-- Computer vision model development  
-- Predictive analytics and anomaly detection  
 
 ### Research Associate (AI & IoT) – MNS University of Agriculture  
 **Jan 2023 – Dec 2024**
