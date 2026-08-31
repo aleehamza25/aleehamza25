@@ -10,7 +10,9 @@ Currently, I work as a **Senior Full Stack Developer at GHL Techy**, developing 
 
 - 🚀 Senior Full Stack Developer @ **GHL Techy**
 - 🔬 Research Associate (AI & IoT) @ **MNS University of Agriculture, Multan**
-- 👨‍🏫 Technical Trainer @ **NAVTTC**
+- 📖 Python Teacter @ **Beacon House School** 
+- 👨‍🏫 Technical Trainer (AI & ML) @ **NAVTTC**
+- 🌐 SEO Specialist @ **TechUp Solutions Pvt Ltd**
 - 🧩 Chrome Extension Developer  
 - 🌐 API Integration Specialist  
 
