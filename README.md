@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Alee Hamza
 
-### Python Full Stack AI Engineer · Django & FastAPI Developer · Automation & SaaS Builder · Computer Vision Researcher
+### Full Stack AI Engineer · Automation & SaaS Builder · Computer Vision Researcher
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleehamza25/)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=55EgwosAAAAJ)
@@ -15,7 +15,7 @@
 
 ---
 
-I'm a **Python-first engineer** who builds scalable backends with **Django & FastAPI**, AI-powered integrations, SaaS platforms and automations that solve real-world problems.
+I'm a **AI-first engineer** who builds scalable backends with AI-powered integrations, SaaS platforms and automations that solve real-world problems.
 
 Currently, I'm a **Senior Full Stack Developer at GHL Techy LLC**, shipping first-to-market SaaS tools and Marketplace apps for the **GoHighLevel** ecosystem. Alongside that, I research **deep learning and computer vision for precision agriculture**, and I have co-authored **two papers in *Nature Scientific Reports***.
 
